@@ -1,0 +1,1 @@
+Created 'sample_file2.txt' and moved it in sample_dir2
