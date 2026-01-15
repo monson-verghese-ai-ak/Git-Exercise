@@ -1,1 +1,4 @@
 Created 'sample_file4.txt'. Placed it in the root
+Adding newLine 1 following 
+Adding newLine 2 following 
+Adding newLine 3 following 

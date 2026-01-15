@@ -1,1 +1,4 @@
 Created 'sample_file1.txt' and moved it in sample_dir1
+Adding newLine 7 following instruction3 in exercise
+Adding newLine 8 following instruction3 in exercise
+Adding newLine 9 following instruction3 in exercise
