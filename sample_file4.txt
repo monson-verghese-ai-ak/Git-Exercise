@@ -1,1 +1,2 @@
 Created 'sample_file4.txt'. Placed it in the root
+Adding a new line to trigger a post-commit
