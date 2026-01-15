@@ -1,1 +1,3 @@
 Created 'sample_file3.txt' and moved it in sample_dir2
+Adding newLine 4 following 
+Adding newLine 5 following instruction3 in exercise
